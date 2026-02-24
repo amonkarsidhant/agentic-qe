@@ -37,7 +37,7 @@ aqe init --auto
 
 > **Note:** `aqe init` automatically configures the MCP server in `.mcp.json` — Claude Code will auto-start it when connecting. For standalone MCP server usage (non-Claude-Code clients), run `aqe-mcp` or `npx agentic-qe mcp`.
 
-### Use from MCP-compatible agent clients (Claude, Codex, others)
+### Use from MCP-compatible agent clients (Claude, Opencode, others)
 
 AQE is exposed as an MCP server and can be used from any client that supports MCP tool connections.
 
